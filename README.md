@@ -2,7 +2,11 @@ src（ソースファイル）
 -index.html  
 -menu.html  
 -resservation.html  
--shop.html  
+-shop_top.html  
+-shop_cart.html  
+-shop_input.html  
+-shop_confirm.html  
+-shop_finish.html
 -style.css  
 images（画像）  
 memo（メモ）  
