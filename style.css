@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Swash&display=swap');
+
+#same h1:first-child {
+  	font-size: 60px; /* 60ピクセルに設定 */
+	font-family: 'Caveat', cursive;
+}
+
+#same h1:not(:first-child) {
+	font-family: 'Cherry Swash', cursive;
+}
+
+#same {
+  	display: flex;
+  	justify-content: space-around;
+  	align-items: center;
+  	background-color: #f0f0f0; /* ヘッダーの背景色を設定 */
+}
+
+#same h1 {
+  	margin: 0; /* ヘッダー内の各要素のマージンをリセット */
+}
+
+#samefoot {
+  	display: flex;
+  	justify-content: space-around;
+  	align-items: center;
+  	background-color: #f0f0f0; /* ヘッダーの背景色を設定 */
+	font-family: 'Cherry Swash', cursive;
+	font-size: 12px;
+}
+
+#samefoot h1 {
+  	margin: 0; /* ヘッダー内の各要素のマージンをリセット */
+}
+
+a {
+  	text-decoration: none;
+}
+
+a,a:hover,a:visited{
+    	color: inherit;
+}
+
+.image {
+	text-align: center;
+}
+.access {
+	text-align: center;
+	font-size: 60px; /* 60ピクセルに設定 */
+	font-family: 'Caveat', cursive;
+}
+.map {
+	display: inline-block;
+	justify-content: center;
+	padding: 0 0 20px 0px;
+	position: relative;
+	text-align: center;
+}
+iframe {
+  	width: 45%;
+  	aspect-ratio: 16/9; //アスペクト比（縦横比）を指定
+}
+.info {
+	color: #009900;
+	display: inline-block;
+	vertical-align: top;
+}
+.infop {
+	text-align: center;
+}
+.cafe {
+	display: flex;
+	justify-content: center;
+	gap: 33px;
+	position: relative;
+	max-width: 100%;
+	height: auto;
+}
+body {
+	background-image: url(images/cafe.jpg);     /*画像ファイルを選択*/
+	background-size: cover;               /* 全画面 */
+   	background-attachment: fixed;         /* 固定 */
+   	background-position: center center;   /* 縦横中央 */
+	background-repeat: no-repeat;     /*非繰り返しを選択*/
+	background-color: rgba(255,255,255,0.5);    /*最後の箇所で透過度調整*/
+  	background-blend-mode: lighten;     /*背景の調整*/
+}
