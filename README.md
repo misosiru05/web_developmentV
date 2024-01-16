@@ -14,13 +14,13 @@ delete_cart.php
 delete_input.php  
 【CSS】  
 style.css  
-
+【フォルダ】  
 images（画像）  
 memo（メモ）  
 design（デザイン画像）  
 
 
-【SHOPページについて】  
+《SHOPページについて》  
 データベースを使用  
 dbname:webcafe  
 username:webcafe  
