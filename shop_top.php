@@ -14,7 +14,7 @@ session_start();
 			<h1><a href="index.html">TOP</a></h1>
 			<h1><a href="menu.html">Menu</a></h1>
 			<h1><a href="reservation.html">Reserve</a></h1>
-			<h1><a href="shop.html">Shop</a></h1>
+			<h1><a href="shop_top.php">Shop</a></h1>
 		</header>
 
 		<main>
@@ -159,7 +159,7 @@ session_start();
 			<h1><a href="index.html">TOP</a></h1>
 			<h1><a href="menu.html">Menu</a></h1>
 			<h1><a href="reservation.html">Reserve</a></h1>
-			<h1><a href="shop.html">Shop</a></h1>
+			<h1><a href="shop_top.php">Shop</a></h1>
 		</footer>
 	</body>
 </html>
