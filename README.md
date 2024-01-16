@@ -18,8 +18,7 @@ style.css
 images（画像）  
 memo（メモ）  
 design（デザイン画像）  
-
-
+    
 《SHOPページについて》  
 データベースを使用  
 dbname:webcafe  
