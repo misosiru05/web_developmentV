@@ -3,7 +3,9 @@ index.html
 【MENUページ】  
 menu.html  
 【予約ページ】  
-resservation.html  
+resservation.php
+reservationkakunin.php
+kanryou.php
 【SHOPページ】  
 shop_top.php  
 shop_cart.php  
