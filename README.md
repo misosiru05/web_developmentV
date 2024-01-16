@@ -1,6 +1,10 @@
+【TOPページ】　　
 index.html  
+【MENUページ】　　
 menu.html  
-resservation.html  
+【予約ページ】　　
+resservation.html
+【SHOPページ】　　
 shop_top.php 
 shop_cart.php  
 shop_input.php  
@@ -8,7 +12,9 @@ shop_confirm.php
 shop_finish.html  
 delete_cart.php  
 delete_input.php
+【CSS】　　
 style.css  
+
 images（画像）  
 memo（メモ）  
 design（デザイン画像）  
