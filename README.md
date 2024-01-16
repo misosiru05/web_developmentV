@@ -3,7 +3,7 @@ index.html
 【MENUページ】  
 menu.html  
 【予約ページ】  
-resservation.html
+resservation.html  
 【SHOPページ】  
 shop_top.php 
 shop_cart.php  
