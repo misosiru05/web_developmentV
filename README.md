@@ -21,7 +21,7 @@ design（デザイン画像）
 
 
 【SHOPページについて】  
-データベースを使用　　
+データベースを使用  
 dbname:webcafe  
 username:webcafe  
 password:webcafe  
