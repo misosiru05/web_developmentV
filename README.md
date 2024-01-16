@@ -11,7 +11,7 @@ shop_input.php
 shop_confirm.php    
 shop_finish.html  
 delete_cart.php  
-delete_input.php
+delete_input.php  
 【CSS】  
 style.css  
 
