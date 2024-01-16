@@ -20,7 +20,7 @@ memo（メモ）
 design（デザイン画像）  
 
 
-【SHOPページについて】　　
+【SHOPページについて】  
 データベースを使用　　
 dbname:webcafe  
 username:webcafe  
