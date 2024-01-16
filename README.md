@@ -5,7 +5,7 @@ menu.html
 【予約ページ】  
 resservation.html  
 【SHOPページ】  
-shop_top.php 
+shop_top.php  
 shop_cart.php  
 shop_input.php  
 shop_confirm.php    
